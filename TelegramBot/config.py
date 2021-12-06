@@ -1,3 +1,0 @@
-TOKEN= '2126076591:AAG85_gINKDRKY_FTiJcln3dAX8WAVhPRRo'  #Bot TOKEN from @BotFather
-
-
